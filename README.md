@@ -1,4 +1,4 @@
-# NailaTech
+# The Camper World Camping Game
 import random
 
 # Player attributes
